@@ -1,4 +1,6 @@
-[
+package constants
+
+var Dinosaurs = []string{
   "Tyrannosaurus Rex",
   "Triceratops",
   "Velociraptor",
@@ -43,6 +45,5 @@
   "Ouranosaurus",
   "Pachyrhinosaurus",
   "Protoceratops",
-  "Saurolophus"
-
-]
+  "Saurolophus",
+}

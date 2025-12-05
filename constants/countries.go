@@ -1,4 +1,6 @@
-[
+package constants
+
+var Countries = []string{
     "United States",
     "Canada",
     "Mexico",
@@ -113,5 +115,5 @@
     "Madagascar",
     "Mauritius",
     "Fiji",
-    "Papua New Guinea"
-]
+    "Papua New Guinea",
+}

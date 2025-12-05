@@ -1,4 +1,6 @@
-[
+package constants
+
+var Colours = []string{
     "red",
     "blue",
     "green",
@@ -107,5 +109,5 @@
     "lightskyblue",
     "lightslategray",
     "lightsteelblue",
-    "lightyellow"
-]
+    "lightyellow",
+}

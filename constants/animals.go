@@ -1,4 +1,6 @@
-[
+package constants
+
+var Animals = []string{
   "Lion",
   "Tiger",
   "Elephant",
@@ -431,6 +433,5 @@
   "Archaea",
   "Bacteria",
   "Virus",
-  "Prion"
-
-]
+  "Prion",
+}
